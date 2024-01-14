@@ -5,7 +5,7 @@ import { GrTask } from "react-icons/gr";
 import { GrInProgress } from "react-icons/gr";
 import { GrFavorite } from "react-icons/gr";
 import { CgProfile } from "react-icons/cg";
-export const SideBarData = [
+export const SidebarData = [
     {
         title:'Dashboard',
         path:'/',

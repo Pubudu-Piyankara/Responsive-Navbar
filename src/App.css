@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  }
+  
+  .dashboard ,
+  .favorites ,
+  .myactivity ,
+  .profile ,
+  .progress ,
+  .tasks {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  }
